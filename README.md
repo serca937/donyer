@@ -95,12 +95,16 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [uc](https://github.com/serca937/my-downloader/tree/main/downloads/uc)
+1. [download](https://github.com/serca937/my-downloader/tree/main/downloads/download)
 
-2. [uc_theta](https://github.com/serca937/my-downloader/tree/main/downloads/uc_theta)
+2. [uc](https://github.com/serca937/my-downloader/tree/main/downloads/uc)
 
-3. [uc_zeta](https://github.com/serca937/my-downloader/tree/main/downloads/uc_zeta)
+3. [uc_theta](https://github.com/serca937/my-downloader/tree/main/downloads/uc_theta)
+
+4. [uc_zeta](https://github.com/serca937/my-downloader/tree/main/downloads/uc_zeta)
 
 ---
