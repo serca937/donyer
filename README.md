@@ -91,8 +91,12 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [uc](https://github.com/serca937/my-downloader/tree/main/downloads/uc)
+
+2. [uc_theta](https://github.com/serca937/my-downloader/tree/main/downloads/uc_theta)
 
 ---
