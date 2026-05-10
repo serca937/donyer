@@ -105,10 +105,10 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [194987](https://github.com/serca937/my-downloader/tree/main/downloads/194987)
-
-2. [sMR5yjcN](https://github.com/serca937/my-downloader/tree/main/downloads/sMR5yjcN)
+1. [sMR5yjcN](https://github.com/serca937/my-downloader/tree/main/downloads/sMR5yjcN)
 
 ---
