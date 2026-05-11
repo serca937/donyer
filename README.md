@@ -119,18 +119,10 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [17FXqWdH](https://github.com/serca937/my-downloader/tree/main/downloads/17FXqWdH)
-
-2. [67wU9QvV](https://github.com/serca937/my-downloader/tree/main/downloads/67wU9QvV)
-
-3. [FLbSvxkD](https://github.com/serca937/my-downloader/tree/main/downloads/FLbSvxkD)
-
-4. [UgxtuiEs](https://github.com/serca937/my-downloader/tree/main/downloads/UgxtuiEs)
-
-5. [W9qYXdVj](https://github.com/serca937/my-downloader/tree/main/downloads/W9qYXdVj)
-
-6. [nFNSBVjL](https://github.com/serca937/my-downloader/tree/main/downloads/nFNSBVjL)
+1. [90a3b4690011c784865abc50aaf2446bbfbce9a95299842654dc249da1a46399](https://github.com/serca937/my-downloader/tree/main/downloads/90a3b4690011c784865abc50aaf2446bbfbce9a95299842654dc249da1a46399)
 
 ---
