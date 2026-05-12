@@ -129,10 +129,10 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [e138e186-e9fe-48d1-9648-9bb06c21c23f](https://github.com/serca937/donyer/tree/main/downloads/e138e186-e9fe-48d1-9648-9bb06c21c23f)
-
-2. [npp.8.9.5.Installer.x64](https://github.com/serca937/donyer/tree/main/downloads/npp.8.9.5.Installer.x64)
+1. [JKnvzvAu](https://github.com/serca937/donyer/tree/main/downloads/JKnvzvAu)
 
 ---
