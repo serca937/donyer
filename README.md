@@ -139,16 +139,10 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [5XP9se4R](https://github.com/serca937/donyer/tree/main/downloads/5XP9se4R)
-
-2. [JKnvzvAu](https://github.com/serca937/donyer/tree/main/downloads/JKnvzvAu)
-
-3. [M5MyW1wd](https://github.com/serca937/donyer/tree/main/downloads/M5MyW1wd)
-
-4. [cirB5x1R](https://github.com/serca937/donyer/tree/main/downloads/cirB5x1R)
-
-5. [n5ACQu86](https://github.com/serca937/donyer/tree/main/downloads/n5ACQu86)
+1. [Lnr4wxn8](https://github.com/serca937/donyer/tree/main/downloads/Lnr4wxn8)
 
 ---
